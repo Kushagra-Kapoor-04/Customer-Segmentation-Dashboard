@@ -2,7 +2,7 @@
 
 An end-to-end RFM analysis and K-Means clustering pipeline on ~93,000 real Brazilian e-commerce customers, with an interactive Streamlit dashboard for exploring customer segments.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)[(https://customer-segmentation-dashboard-01.streamlit.app/)]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://customer-segmentation-dashboard-01.streamlit.app/)]
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
